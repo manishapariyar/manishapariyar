@@ -1,10 +1,10 @@
 <h1 align = "center">Hi👋,I'm Manisha Pariyar</h>
-<h3 align="center"> A passinote frontend Developer </h3>
+<h3 align="center"> A passinote fullstack Developer </h3>
 <img align="right" alt="coding" width="400" src ="https://i.gifer.com/3AyY.gif"/>
 
 
 # 💫 About Me:
-🔭 I’m currently working on some personal projects<br>🤝 I’m looking for help refining my web development skills, particularly in full-stack development<br>🌱 I’m currently learning : Backend <br>💬 Ask me about : Frontend<br>⚡ Fun fact : I have a talent for embracing relaxation and mastering the art of chill!
+🔭 I’m currently learning backend technologies<br>🤝 I’m looking for help refining my web development skills, particularly in full-stack development<br>🌱 I’m currently learning : Backend <br>💬 Ask me about : Frontend<br>⚡ Fun fact : I get bored in a second!
 
 
 ## 🌐 Socials:
