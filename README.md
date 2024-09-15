@@ -6,7 +6,12 @@
 
 
 # 💫 About Me:
-.....
+<br>
+   <br>
+    <br>
+   <br>
+    <br>
+   <br>
 🤝 I’m looking for help refining my web development skills, particularly in full-stack development<br>🌱 I’m currently learning : Backend <br>💬 Ask me about : Frontend<br>⚡ Fun fact : I get bored in a second!
 </center>
 
