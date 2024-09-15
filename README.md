@@ -1,6 +1,8 @@
 <h1 align = "center">Hi👋,I'm Manisha Pariyar</h>
 <h3 align="center"> A passinote fullstack Developer </h3>
-<img align="right" alt="coding" width="400" src ="https://i.gifer.com/3AyY.gif"/>
+<center>
+ <img align="right" alt="coding" width="350"  src ="https://i.gifer.com/3AyY.gif"/>
+</center>
 
 
 # 💫 About Me:
