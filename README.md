@@ -2,14 +2,16 @@
 <h3 align="center"> A passinote fullstack Developer </h3>
 
 <center>
+ <br>
+    <br>
+   <br>
+    <br>
  <img align="right" alt="coding" width="300"  src ="https://i.gifer.com/3AyY.gif"/>
 
 
 # 💫 About Me:
-<br>
-   <br>
-    <br>
-   <br>
+
+
     <br>
    <br>
 🤝 I’m looking for help refining my web development skills, particularly in full-stack development<br>🌱 I’m currently learning : Backend <br>💬 Ask me about : Frontend<br>⚡ Fun fact : I get bored in a second!
