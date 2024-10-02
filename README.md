@@ -1,5 +1,5 @@
 <h1 align = "center">Hi👋,I'm Manisha Pariyar</h>
-<h3 align="center"> A passinote fullstack Developer </h3>
+<h3 align="center"> A passinate fullstack Developer </h3>
 
 <center>
 
